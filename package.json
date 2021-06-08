@@ -1,0 +1,23 @@
+{
+  "name": "technoscape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serdaucok/technoscape.git"
+  },
+  "author": "serdaucok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serdaucok/technoscape/issues"
+  },
+  "homepage": "https://github.com/serdaucok/technoscape#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
