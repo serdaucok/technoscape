@@ -153,7 +153,7 @@ $ cd jenkins-docker
 $ docker-compose up -d
 ```
 
-#DAY 2
+# DAY 2
 ## Create Jenkins pipeline
 ## Create unit test
 ## Create Jenkins webhook smee channel
