@@ -111,7 +111,7 @@ $ heroku git:remote -a <app-name>
 $ git push heroku main
 ```
 ### Open your heroku application in browser https://<app-name>.herokuapp.com/
-##### in this stage you will getting error in heroku app
+##### *) in this stage you will getting error in heroku app
 
 ### Add this line
 ```
@@ -136,11 +136,11 @@ web: node index.js
 ### Deploy app to Heroku
 ```
 $ git add .
-$ git commit -m 'add procfile'
+$ git commit -m 'add Procfile'
 $ git push origin main
 $ git push heroku main
 ```
-### Re-open the app https://<app-name>.herokuapp.com/
+### Re-open the app https://appname.herokuapp.com/
 
 ## Setup Jenkins
 ### Clone repository
