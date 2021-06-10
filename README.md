@@ -110,7 +110,7 @@ $ heroku git:remote -a <app-name>
 ```
 $ git push heroku main
 ```
-### Open your heroku application in browser https://<app-name>.herokuapp.com/
+### Open your heroku application in browser https://appname.herokuapp.com/
 ##### *) in this stage you will getting error in heroku app
 
 ### Add this line
